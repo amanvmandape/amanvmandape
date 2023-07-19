@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aman Mandape, a Computer Science Engineer from India. I am enthusiastic about Competitive Coding & Machine Learning.
+I am Aman Mandape, a Computer Science Engineer from India. I am enthusiastic about Competitive Coding & Front-End Development.
 
 <!--
 **amanvmandape/amanvmandape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
