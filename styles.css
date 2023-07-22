@@ -15,7 +15,7 @@ body
 
 .project-card
 {
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
 }
 
 .project-card:hover
@@ -41,7 +41,7 @@ body
     color: white;
     font-size: 20px;
     background-color: black;
-    transition-duration: 1s;
+    transition-duration: 0.4s;
 }
 
 .cert-card:hover .overlay
