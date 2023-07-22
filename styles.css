@@ -13,7 +13,39 @@ body
     font-family: 'Quattrocento', serif;
 }
 
-.card:hover
-{   transform:scale(1.05);
+.project-card
+{
+    transition-duration: 0.5s;
+}
+
+.project-card:hover
+{   transform:scale(1.10);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card
+{
+    margin: 0rem 1rem;
+}
+
+
+.overlay
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 150px;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    color: white;
+    font-size: 20px;
+    background-color: black;
     transition-duration: 1s;
+}
+
+.cert-card:hover .overlay
+{
+    opacity: 0.8;
+
 }
