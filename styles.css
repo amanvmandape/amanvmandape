@@ -1,6 +1,29 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+#header
+{
+    /* background-color: rgb(209 231 221); */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/bg.jpg);
+    text-align: center;
+    color: white;
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#contact
+{
+    background-color: rgb(209 231 221);
+}
+
 i
 {
-    font-size: 36px;
+    font-size: 32px;
 }
 
 h1, h2, h3, h4, h5, h6
