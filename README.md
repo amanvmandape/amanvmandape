@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/82380ffc8fe576c18d28f05250f61dc8-1603324282/Preview%20Sample/create-this-cool-neon-animation-discord-avatar.gif" width="300"/>
+  <img src="https://media.tenor.com/aNVkfUVH1GsAAAAd/gif.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
