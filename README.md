@@ -30,15 +30,17 @@
 
   ### :man_technologist: About Me :
 
-</div>
-
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m learning Front-End Web Development.
 
 - :zap: In my free time, I solve problems on LeetCode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amanvmandape-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanvmandape/)
+
+</div>
+
+
 
 ---
 <div align="center">
