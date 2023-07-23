@@ -37,8 +37,11 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amanvmandape-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanvmandape/)
 
 ---
+<div align="center">
+  
+  ### :hammer_and_wrench: Languages and Tools :
 
-### :hammer_and_wrench: Languages and Tools :
+</div>
 
 - #### Programming Languages :
 
