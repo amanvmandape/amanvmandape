@@ -1,4 +1,4 @@
-<h1 align="center">Aman Mandape Welcomes Cou</h1>
+<h1 align="center">Aman Mandape Welcomes You</h1>
 
 
 <div id="header" align="center">
