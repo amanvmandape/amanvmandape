@@ -30,9 +30,9 @@
 
   ### :man_technologist: About Me :
 
-  I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
 </div>
+
+- I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m learning Front-End Web Development.
 
