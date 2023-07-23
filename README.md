@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1iZTlxbW0ybmZjMTFieWZ6OGpyYWRpZ284ajB4NjM1aWthNnhleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f8hd7QP9LT31Rk2NG1/giphy.gif" width="300"/>
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/82380ffc8fe576c18d28f05250f61dc8-1603324282/Preview%20Sample/create-this-cool-neon-animation-discord-avatar.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
