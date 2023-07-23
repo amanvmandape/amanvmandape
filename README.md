@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat-square&color=blue" alt=""/>
 </div>
 
