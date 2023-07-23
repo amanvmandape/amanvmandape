@@ -59,4 +59,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 
+---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amanvmandape&theme=dark&background=000000)](https://git.io/streak-stats)
