@@ -20,6 +20,8 @@
 
 ---
 
+## A Day in My Life
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800"/>
 </div>
