@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## A Day in My Life
+### A Day in My Life
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800"/>
 </div>
