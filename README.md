@@ -9,7 +9,13 @@
   <a href="https://www.linkedin.com/in/amanvmandape/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/amanvmandape/">
+ <a href="https://www.instagram.com/aman_mandape">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+ <a href="https://www.facebook.com/mandape.aman">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://leetcode.com/amanvmandape/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
   <a href="https://twitter.com/amanvmandape">
