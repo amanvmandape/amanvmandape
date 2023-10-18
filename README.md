@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
    <a href="https://medium.com/@amanvmandape">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://twitter.com/amanvmandape">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
