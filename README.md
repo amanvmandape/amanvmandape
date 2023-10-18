@@ -9,20 +9,14 @@
   <a href="https://www.linkedin.com/in/amanvmandape/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://www.instagram.com/aman_mandape">
-    <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
- <a href="https://www.facebook.com/mandape.aman">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+ <a href="https://medium.com/@amanvmandape">
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
    <a href="https://leetcode.com/amanvmandape/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-   <a href="https://medium.com/@amanvmandape">
-    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/amanvmandape">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+  <a href="https://www.quora.com/profile/Aman-Mandape-3">
+    <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
   </a>
 </div>
 
@@ -47,11 +41,11 @@
 
 </div>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Front-End Developer  from India.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full-Stack Engineer from India.
 
-- :telescope: I’m learning Front-End Web Development.
+- :telescope: I’m knowledgeable in MERN Stack & love to develop projects with it.
 
-- :zap: In my free time, I solve problems on LeetCode.
+- :zap: In my free time, I like to learn new things, write articles on medium, or go outdoors.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amanvmandape-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanvmandape/)
 
