@@ -43,7 +43,7 @@
 
 - I am a Full-Stack Engineer from India.
 
-- :telescope: I’m knowledgeable in MERN Stack & love to develop projects with it.
+- :telescope: I’m knowledgeable in Java Full-Stack & love to develop projects with it.
 
 - :zap: In my free time, I like to learn new things, write articles on medium, or go outdoors.
 
