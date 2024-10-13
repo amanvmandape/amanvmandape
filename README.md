@@ -68,10 +68,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>&nbsp;
  
 - #### Testing : 
 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>&nbsp;
+
+- #### DevOps & Tools :
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>&nbsp
+  
 ---
 
 <div align="center">
