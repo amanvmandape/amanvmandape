@@ -40,9 +40,9 @@
 
 - I am a Full-Stack Engineer from India.
 
-- :telescope: I’m knowledgeable in Java Full-Stack & love to develop projects with it.
+- :telescope: I’m knowledgeable in Java Full-Stack & professionally working as a Java Developer.
 
-- :zap: In my free time, I like to learn new things, write articles on medium, or go outdoors.
+- :zap: In my free time, I like to learn new things, play video games, read books, or watch movies/shows.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amanvmandape-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanvmandape/)
 
