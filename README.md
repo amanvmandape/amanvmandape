@@ -15,9 +15,6 @@
    <a href="https://leetcode.com/amanvmandape/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=white" alt="Leetcode Badge"/>
    </a>
-  <a href="https://www.quora.com/profile/Aman-Mandape-3">
-    <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
-  </a>
 </div>
 
 <div id="badges" align="center">
