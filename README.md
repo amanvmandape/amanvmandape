@@ -40,7 +40,7 @@
 
 - I am a Full-Stack Engineer from India.
 
-- :telescope: I’m knowledgeable in Java Full-Stack & professionally working as a Java Developer.
+- :telescope: I’m knowledgeable in Java React tech-Stack & professionally working as a Java FullStack Developer.
 
 - :zap: In my free time, I like to learn new things, play video games, read books, or watch movies/shows.
 
