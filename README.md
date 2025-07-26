@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat-square&color=000000" />
 </div>
 
 ---
