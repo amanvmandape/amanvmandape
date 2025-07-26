@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=none&color=blue" alt=""/>
+  You are our visitor number: <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat&color=ffffff" alt="View count"/>
 </div>
 
 ---
