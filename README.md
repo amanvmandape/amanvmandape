@@ -55,10 +55,14 @@ I am a Java Software Developer from India. Pleased to meet you!<br><br>💻 I’
 ![](https://github-profile-trophy.vercel.app/?username=amanvmandape&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amanvmandape&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=amanvmandape&limit=5&theme=prussian&combine_all_yearly_contributions=true" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amanvmandape&icon=6&color=1)](https://visitcount.itsvg.in)
