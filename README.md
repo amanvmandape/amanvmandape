@@ -20,6 +20,8 @@
 ---
 <div align="center">
   You are our visitor number: <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat&color=ffffff" alt="View count"/>
+  <img src="https://img.shields.io/badge/Profile_Views-123-blue" />
+
 </div>
 
 ---
@@ -64,5 +66,3 @@ I am a Java Software Developer from India. Pleased to meet you!<br><br>💻 I’
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amanvmandape&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
