@@ -19,9 +19,7 @@
 
 ---
 <div align="center">
-  You are our visitor number: <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat&color=ffffff" alt="View count"/>
-  <img src="https://img.shields.io/badge/Profile_Views-123-blue" />
-
+  <img src="https://komarev.com/ghpvc/?username=amanvmandape&style=flat&color=white" />
 </div>
 
 ---
